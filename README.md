@@ -1,18 +1,7 @@
 
-
+**DIY SOLAR MOBILE PHONE CHARGER**
                       
-Steps followed when building a DIY-SOLAR-PHONE-CHARGER	
-	
-Step 1 - Drawing
-
-Step 2 - Tool Box/ Tool Kit
-         Open the kit and get the tools and materials to use
-
-Step 3 - Tools and materials 
-•	Identify the tools and materials 
-•	Arrange the materials and the tools
-
-Materials        
+**Materials**
 Solar panel of (10v) 
 Diode         
 Resistors        
@@ -23,7 +12,7 @@ Jumper wire
 Circuit board        
 Bread board
 
-Tools     
+**Tools**     
 Wires (red and black)       
  Soldering iron         
 Soldering wire       
@@ -33,6 +22,17 @@ Sucker
 Scissor       
 Multimeter   
 LED tester
+
+**Steps followed when building a DIY-SOLAR-PHONE-CHARGER**	
+	
+Step 1 - Drawing
+
+Step 2 - Tool Box/ Tool Kit
+         Open the kit and get the tools and materials to use
+
+Step 3 - Tools and materials 
+•	Identify the tools and materials 
+•	Arrange the materials and the tools
 
 Step 4 - Test the following materials 
          The total voltage of the solar panel 
