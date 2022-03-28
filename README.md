@@ -1,5 +1,10 @@
 
 **DIY SOLAR MOBILE PHONE CHARGER**
+
+A Do It Your (DIY)solar mobile charger is a locally made solar charger using the available materials to help charge mobile phones in remote area with no electricity like refugee settlements.
+
+![image](https://user-images.githubusercontent.com/25750606/160377085-5f7a2774-be9b-4f70-8046-fd479aa4cef2.png)
+
                       
 **Materials**
 
@@ -36,8 +41,8 @@ Step 3 - Tools and materials
 * Arrange the materials and the tools
 
 Step 4 - Test the following materials 
-         The total voltage of the solar panel 
-         The LED light using the LED tester
+         * The total voltage of the solar panel 
+         * The LED light using the LED tester
 
 Step 5 - Calculations 
          Calculate the Resistance
@@ -47,8 +52,11 @@ Step 6 - Bread board
 	 
 Step 7 - Fix the following materials 
          * Fix a positive (+wire red in color) and negative (-wire black in color) for input source (power) 
+	 
          * Fix the diode 
+	 
          * Fix a positive wire from the input source (+wire) to the diode 
+	 
          * Fix the resistors in positive side of the diode and have to be in series for easy calculation
 	 
 Step 8 - Resistor 
