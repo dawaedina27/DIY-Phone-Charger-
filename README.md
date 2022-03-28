@@ -46,10 +46,10 @@ Step 6 - Bread board
          Get the bread board and place it at the helping hand
 	 
 Step 7 - Fix the following materials 
-         Fix a positive (+wire red in color) and negative (-wire black in color) for input source (power) 
-         Fix the diode 
-         Fix a positive wire from the input source (+wire) to the diode 
-         Fix the resistors in positive side of the diode and have to be in series for easy calculation
+         * Fix a positive (+wire red in color) and negative (-wire black in color) for input source (power) 
+         * Fix the diode 
+         * Fix a positive wire from the input source (+wire) to the diode 
+         * Fix the resistors in positive side of the diode and have to be in series for easy calculation
 	 
 Step 8 - Resistor 
          Fix the resistors in positive side of the diode and have to be in series for easy calculation
