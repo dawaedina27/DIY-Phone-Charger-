@@ -45,7 +45,7 @@ Step 4 - Test the following materials
          * The total voltage of the solar panel 
          * The LED light using the LED tester
 	 
-![](/THREE3.jpg)
+![](/FIVE5.jpg)
 
 Step 5 - Calculations 
          Calculate the Resistance
@@ -83,7 +83,7 @@ Step 13 - Regulator and diode
 Step 14 - capacitor, diode, resistor and regulator 
           Connect the positive pin of the first capacitor to the join the diode, resistors and the left pin of the regulator
 	  
-	  ![](/FIVE5.jpg)
+	  ![](/THREE3.jpg)
 	  
 Step 15 - Regulator and big capacitor 
           Connect the right pin of the regulator to the positive pin of the big capacitor
