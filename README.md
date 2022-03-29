@@ -1,6 +1,8 @@
 
 **DIY SOLAR MOBILE PHONE CHARGER**
 
+![](/one1.jpg)
+
 A Do It Your (DIY)solar mobile charger is a locally made solar charger using the available materials to help charge mobile phones in remote area with no electricity like refugee settlements.
 
                       
