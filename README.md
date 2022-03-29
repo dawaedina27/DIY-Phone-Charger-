@@ -32,6 +32,8 @@ A Do It Your (DIY)solar mobile charger is a locally made solar charger using the
 	
 Step 1 - Drawing
 
+![](/TWO2.jpg)
+
 Step 2 - Tool Box/ Tool Kit
          Open the kit and get the tools and materials to use
 
